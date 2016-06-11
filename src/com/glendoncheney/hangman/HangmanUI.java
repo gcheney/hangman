@@ -1,4 +1,4 @@
-package hangman;
+package com.glendoncheney.hangman;
 
 import java.awt.*;
 import java.awt.event.*;

@@ -1,4 +1,4 @@
-package hangman;
+package com.glendoncheney.hangman;
 
 import javax.swing.*;
 

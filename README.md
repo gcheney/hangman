@@ -3,6 +3,9 @@
 ### About
 Hangman is a paper and pencil guessing game for two or more players. One player thinks of a word, phrase or sentence and the other tries to guess it by suggesting letters or numbers, within a certain number of guesses. 
 
+### Download
+A runnable JAR file for the game can be found [here](https://github.com/gcheney/hangman/releases/download/1.0/hangman.jar).
+
 ### How To Play
 
 The first player goes to the screen and enters the secret word they wish for the other player to guess. The player guessing gets as many tries as the word has letters. 
